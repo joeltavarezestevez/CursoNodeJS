@@ -8,5 +8,5 @@ app.get("/", function (req, res) {
 })
 
 app.listen(80, function() {
-	console.log('Server listening on port 80'.red);
+	console.log('Server listening on port 80'.rainbow);
 })
